@@ -1,7 +1,7 @@
 There are 2 parts to this problem commit and push your work to github after each part (you may commit and push more often but at least after each part).
 Part 1: "AdvFunc2-TestCases" - Create the test cases for the function below.
 Part 2: "IntFunc2" - Create a java project, and implement the function described below.
-         After you created the functions go back and make the calls to the function in the main function that you created in part1 (test cases).
+         After you created the function go back and test your Fibonacci function with all of the test cases you made in part 1 by making calls to your function from within the Main Function.
 
 For this assignment you are going to create a function that generates the nth term of the fibinocci sequence.
     The Fibonacci sequence is a series of numbers where a number is the addition of the last two numbers, starting with 0, and 1.
